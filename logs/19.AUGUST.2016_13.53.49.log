@@ -1,0 +1,26 @@
+[13:53:49] Main: Configuration loaded
+[13:53:49] Main: Help command added
+[13:53:49] Main: Commands loaded
+[13:53:49] ge.LevelSaves: image> Pathed map
+[13:53:49] ge.LevelSaves: pixels> ARGB Data collect
+[13:53:49] ge.levels.LevelSaves: width> set to 16
+[13:53:49] ge.levels.LevelSaves: height> set to 16
+[13:53:49] ge.levels.LevelSaves: result> Initialized
+[13:53:49] ge.Game: Mapped Level
+[13:53:49] ge.gfx.Screen: width> Set to 80
+[13:53:49] ge.gfx.Screen: height> Set to 80
+[13:53:49] ge.handlers.InputHandler: Listening
+[13:53:49] ge.Game: run
+[13:53:49] ge.gfx.SpriteSheet: Sprite Sheet Pathed
+[13:53:49] ge.levels.LevelSaves: 4, 4 set to -65536
+[13:53:49] ge.levels.LevelSaves: 4, 4 set to -65536
+[13:53:49] ge.levels.LevelSaves: 5, 8 set to -65536
+[13:53:49] ge.levels.LevelSaves: 5, 8 set to -65536
+[13:53:49] ge.levels.LevelSaves: 5, 8 set to -65536
+[13:53:49] ge.levels.LevelSaves: 6, 9 set to -65536
+[13:53:49] ge.levels.LevelSaves: 7, 10 set to -65536
+[13:53:49] ge.levels.LevelSaves: 9, 5 set to -65536
+[13:53:49] ge.levels.LevelSaves: 13, 13 set to -65536
+[13:53:49] ge.levels.LevelSaves: 13, 13 set to -65536
+[13:53:49] ge.levels.LevelSaves: 14, 14 set to -65536
+[13:53:49] ge.levels.LevelSaves: 15, 15 set to -65536

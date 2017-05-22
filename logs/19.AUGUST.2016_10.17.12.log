@@ -1,0 +1,14 @@
+[10:17:12] Main: Configuration loaded
+[10:17:12] Main: Help command added
+[10:17:12] Main: Commands loaded
+[10:17:12] ge.LevelSaves: image> Pathed map
+[10:17:12] ge.LevelSaves: pixels> ARGB Data collect
+[10:17:12] ge.levels.LevelSaves: width> set to 16
+[10:17:12] ge.levels.LevelSaves: height> set to 16
+[10:17:12] ge.levels.LevelSaves: result> Initialized
+[10:17:12] ge.Game: Mapped Level
+[10:17:12] ge.gfx.Screen: width> Set to 80
+[10:17:12] ge.gfx.Screen: height> Set to 80
+[10:17:12] ge.handlers.InputHandler: Listening
+[10:17:12] ge.Game: run
+[10:17:12] ge.gfx.SpriteSheet: Sprite Sheet Pathed

@@ -1,0 +1,18 @@
+[9:54:32] Config: java.io.FileNotFoundException: \config.properties (Access is denied)
+[9:54:32] Config: java.io.FileNotFoundException: \config.properties (Access is denied)
+[9:54:32] Config: java.io.FileNotFoundException: \config.properties (Access is denied)
+[9:54:32] Config: java.io.FileNotFoundException: \config.properties (Access is denied)
+[9:54:32] Main: Configuration loaded
+[9:54:32] Main: Help command added
+[9:54:32] Main: Commands loaded
+[9:54:32] ge.LevelSaves: image> Pathed map
+[9:54:32] ge.LevelSaves: pixels> ARGB Data collect
+[9:54:32] ge.levels.LevelSaves: width> set to 16
+[9:54:32] ge.levels.LevelSaves: height> set to 16
+[9:54:32] ge.levels.LevelSaves: result> Initialized
+[9:54:32] ge.Game: Mapped Level
+[9:54:32] ge.gfx.Screen: width> Set to 80
+[9:54:32] ge.gfx.Screen: height> Set to 80
+[9:54:32] ge.handlers.InputHandler: Listening
+[9:54:32] ge.Game: run
+[9:54:32] ge.gfx.SpriteSheet: Sprite Sheet Pathed

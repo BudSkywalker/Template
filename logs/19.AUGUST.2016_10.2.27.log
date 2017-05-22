@@ -1,0 +1,20 @@
+[10:3:55] Config: java.io.FileNotFoundException: null\config.properties (The system cannot find the path specified)
+[10:3:55] Config: java.io.FileNotFoundException: null\config.properties (The system cannot find the path specified)
+[10:3:55] Config: java.io.FileNotFoundException: null\config.properties (The system cannot find the path specified)
+[10:3:55] Main: Configuration loaded
+[10:3:55] Main: Help command added
+[10:3:55] Main: Commands loaded
+[10:3:55] Main: Unknow argument nulls in config.properties. Must be true or false
+[10:3:55] ge.LevelSaves: image> Pathed map
+[10:3:55] ge.LevelSaves: pixels> ARGB Data collect
+[10:3:55] ge.levels.LevelSaves: width> set to 16
+[10:3:55] ge.levels.LevelSaves: height> set to 16
+[10:3:55] ge.levels.LevelSaves: result> Initialized
+[10:3:55] ge.levels.LevelSaves: Unknow argument nulls in config.properties. Must be true or false
+[10:3:55] ge.Game: Mapped Level
+[10:3:55] ge.gfx.Screen: width> Set to 80
+[10:3:55] ge.gfx.Screen: height> Set to 80
+[10:3:55] ge.handlers.InputHandler: Listening
+[10:3:55] ge.Game: run
+[10:3:55] ge.gfx.SpriteSheet: Sprite Sheet Pathed
+[10:3:55] Log: Unknown argument nulls in config.properties. Must be true or false
